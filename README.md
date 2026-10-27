@@ -24,6 +24,6 @@ WordPress · WooCommerce · YOOtheme Pro · Shopify · Kotlin · Google Search C
 - Website: [krishnaale.com.au](https://krishnaale.com.au)
 - Blog: [krishnaale.com.au/blogs](https://krishnaale.com.au/blogs/)
 - Medium: [@krishna.ale92](https://medium.com/@krishna.ale92)
-- Email: krishna.ale92@gmail.com
+- Email: hello@krishnaale.au
 
 Need a website that loads fast and gets found? [Let's talk](https://krishnaale.com.au).
